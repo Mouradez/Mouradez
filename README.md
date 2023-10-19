@@ -2,9 +2,9 @@
 
 ## je suis Mourad EZZEBDI  👋
 
-🎓 Étudiant en 2ème année de master en Quantitative and Financial Modeling
-📈 Passionné par la Data Science 
-🤖 Enthousiaste du Machine Learning et de l'Intelligence Artificielle
+-🎓 Étudiant en 2ème année de master en Quantitative and Financial Modeling
+-📈 Passionné par la Data Science 
+-🤖 Enthousiaste du Machine Learning et de l'Intelligence Artificielle
 
 ### Mes compétences
 
