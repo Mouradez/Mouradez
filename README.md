@@ -1,16 +1,20 @@
 ### Hi there 👋
 
-<!--
-**Mouradez/Mouradez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## je suis Mourad EZZEBDI  👋
 
-Here are some ideas to get you started:
+🎓 Étudiant en 2ème année de master en Quantitative and Financial Modeling
+📈 Passionné par la Data Science 
+🤖 Enthousiaste du Machine Learning et de l'Intelligence Artificielle
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Mes compétences
+
+- 💻 Langages de programmation : Python, R, SQL
+- 📊 Data Analysis : Pandas, NumPy
+- 🤖 Machine Learning : Scikit-Learn
+- 🌟 Deep Learning : Réseaux de neurones, TensorFlow, Keras
+- 💾 Big Data : Apache Spark, PySpark
+- 📉 Visualisation de données : Matplotlib, Seaborn
+
+
+  ### Merci d'avoir visité mon profil !
+
